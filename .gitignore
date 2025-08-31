@@ -8,6 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+<<<<<<< HEAD
 .env
 .env
 .env
+=======
+>>>>>>> a8275be (updated project toml file)
