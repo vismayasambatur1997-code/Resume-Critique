@@ -1,6 +1,3 @@
-Got it! Here’s a fresh, original README for your **AI Resume Critiquer** project, inspired by the structure and style of the CourseCraft README but written uniquely:
-
----
 
 # AI Resume Critiquer 📄✨
 
